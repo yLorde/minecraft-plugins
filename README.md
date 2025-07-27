@@ -1,2 +1,4 @@
 # yLuz
-### API-Version: 1.21
+- Paper
+- API-Version: 1.21
+- Permissão: yluz.use
